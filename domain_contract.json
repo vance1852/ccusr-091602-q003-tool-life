@@ -1,0 +1,6 @@
+{
+  "project": "cnc-tool-life",
+  "tool_states": ["available", "mounted", "warning", "blocked", "grinding", "retired"],
+  "counters": ["part_count", "cutting_seconds", "impact_score"],
+  "permit_results": ["allowed", "finish_current_cut", "denied", "manual_review"]
+}
